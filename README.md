@@ -48,5 +48,5 @@ Welcome to the Food Ninja - Online Food Store project! This repository hosts the
 7. **Logging Out:**
    - Log out from the app settings.
 
-Now you can enjoy the Food Ninja - Online Food Store app, browse delicious food items, and place orders for delivery. If you have any questions, feel free to contact our support team.
+Now you can enjoy the Food Ninja - Online Food Store app, browse delicious food items, and place orders for delivery. If you have any questions, feel free to contact me
 
