@@ -2,6 +2,10 @@
 
 Welcome to the Food Ninja - Online Food Store project! This repository hosts the code for a mobile application developed using Flutter, which serves as an online food store. Users can browse a variety of dishes, add items to their cart, and place orders for delivery.
 
+## Notice: Under Development
+
+**Please Note:** This app is currently under active development. Features and functionality may change, and improvements are ongoing. We appreciate your understanding as we work towards a stable release.
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies](#technologies)
