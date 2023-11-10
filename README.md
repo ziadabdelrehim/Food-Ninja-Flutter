@@ -23,6 +23,60 @@ Welcome to the Food Ninja - Online Food Store project! This repository hosts the
   - Dart as the programming language
   - State management with Provider or your preferred state management solution
   - Integration with APIs for data retrieval
+## Screenshots
+
+### Splash Screen
+![Splash Screen](/Splash.png)
+
+
+### Getting Started
+![Getting Started - Welcome](/GettingStarted1.png)
+![Getting Started - Features](/GettingStarted2.png)
+
+
+### Sign-Up Page
+![Sign-Up Page](/SignUp.png)
+
+
+### Sign-In Page
+![Sign-In Page](/SignIn.png)
+
+### Forget Password
+#### a. Contact Details
+![Forget Password - Initiate Reset](/ForgetPassword.png)
+
+
+#### b. Enter Code
+![Forget Password - Enter Code](/VerificationCode.png)
+
+
+#### c. Set New Password
+![Forget Password - Set New Password](/ResetPassword.png)
+
+
+#### d. Reset Successful
+![Forget Password - Reset Successful](/ResetSucces.png)
+
+
+### 6. Setup Your Profile
+#### a. Profile Picture
+![Setup Your Profile - Picture](/SetUpProfile1.png)
+
+
+#### b. Picture Preview
+![Setup Your Profile - Picture Preview](/SetUpProfile2.png)
+
+
+#### c. Location
+![Setup Your Profile - Location](/SetUpProfile3.png)
+
+#### d. Payment Method
+![Setup Your Profile - Payment Method](/PaymentMethod.png)
+
+
+#### e. Profile Complete
+![Setup Your Profile - Complete](/SetUpProfile4.png)
+
 
 ## Usage
 
