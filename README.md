@@ -43,16 +43,10 @@ Welcome to the Food Ninja - Online Food Store project! This repository hosts the
 ### Forget Password
 #### a. Contact Details
 ![Forget Password - Initiate Reset](/ForgetPassword.png)
-
-
 #### b. Enter Code
 ![Forget Password - Enter Code](/VerificationCode.png)
-
-
 #### c. Set New Password
 ![Forget Password - Set New Password](/ResetPassword.png)
-
-
 #### d. Reset Successful
 ![Forget Password - Reset Successful](/ResetSucces.png)
 
@@ -60,15 +54,10 @@ Welcome to the Food Ninja - Online Food Store project! This repository hosts the
 ### 6. Setup Your Profile
 #### a. Profile Picture
 ![Setup Your Profile - Picture](/SetUpProfile1.png)
-
-
 #### b. Picture Preview
 ![Setup Your Profile - Picture Preview](/SetUpProfile2.png)
-
-
 #### c. Location
 ![Setup Your Profile - Location](/SetUpProfile3.png)
-
 #### d. Payment Method
 ![Setup Your Profile - Payment Method](/PaymentMethod.png)
 
