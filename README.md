@@ -9,11 +9,10 @@ Welcome to the Food Ninja - Online Food Store project! This repository hosts the
 
 ## Features
 
-- Browse a wide selection of food items.
-- Add items to your cart.
+- Browse food items.
 - Place orders for home delivery.
 - User authentication and profiles.
-- Payment processing integration.
+- Payment.
 - Responsive design for mobile devices.
 
 ## Technologies
