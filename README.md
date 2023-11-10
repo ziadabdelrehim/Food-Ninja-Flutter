@@ -68,27 +68,7 @@ Welcome to the Food Ninja - Online Food Store project! This repository hosts the
 
 ## Usage
 
-1. **Installation:**
-   - Install the app on your mobile device or emulator.
-
-2. **User Registration and Authentication:**
-   - Register or log in when you launch the app.
-
-3. **Browsing Food Items:**
-   - Browse food items and tap for details.
-
-4. **Adding Items to Your Cart:**
-   - Tap "Add to Cart" on item details.
-
-5. **Placing Orders:**
-   - Review cart and tap "Place Order."
-   - Provide delivery info and payment details.
-
-6. **Managing Your Profile:**
-   - Update profile and view order history.
-
-7. **Logging Out:**
-   - Log out from the app settings.
-
-Now you can enjoy the Food Ninja - Online Food Store app, browse delicious food items, and place orders for delivery. If you have any questions, feel free to contact me
-
+1. Launch the app to experience the engaging splash screen.
+2. Navigate through the onboarding screens to learn about the app's features.
+3. Use the sign-up, sign-in, and forget password screens for user authentication.
+4. Personalize your experience by setting up your user profile.
